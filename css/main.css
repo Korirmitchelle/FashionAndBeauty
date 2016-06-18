@@ -1,0 +1,21 @@
+
+h1{
+ font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 56px;
+ line-height: 65px;
+    color: darkcyan;
+}
+        h2{
+ font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 50px;
+ line-height: 60px;
+    color: black;
+}
+ 
+body {
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 26px;
+    background-color: burlywood
+}
+

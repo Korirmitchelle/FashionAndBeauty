@@ -1,0 +1,14 @@
+h1 {
+font-family:'Arvo',Georgia, Times, serif; 
+font-size: 40px;
+line-height: 60px;
+color:midnightblue;
+}
+
+body {
+font-family:'PT Sans', Helvetica, Arial, sans-serif; 
+font-size: 16px;
+line-height: 25px;
+color:black;
+background-color:lightgray;
+}
