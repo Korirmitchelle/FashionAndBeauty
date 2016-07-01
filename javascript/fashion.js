@@ -1,7 +1,9 @@
 var blue = document.getElementById("background");
 
 var orange = [
-    "url('')",
+    "url('images/fashion2.jpg')",
+    "url('images/makeup.jpg')",
+    "url('images/fashion3.jpg')"
 
 ];
 var counter = 0;
