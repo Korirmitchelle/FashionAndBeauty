@@ -21,3 +21,11 @@ body {
     background-repeat: no-repeat;
     opacity: 0.9;
 }
+footer {
+    text-align: center;
+    background-color: darkorchid;
+    color: azure;
+}
+footer a {
+    color: aliceblue;
+}
