@@ -1,11 +1,12 @@
 var blue = document.getElementById("background");
 
 var orange = [
-    "url('images/fashion2.jpg')",
-    "url('images/makeup.jpg')",
-    "url('images/fashion3.jpg')",
-    "url('images/beauty.jpg')",
-    "url('images/tbdress.jpg')"
+    "url('images/stylywoman.jpg')",
+    "url('images/jewellery.jpg')",
+    "url('images/eyemak1.jpg')",
+    "url('images/beautiful-eye-makeup-asian.jpg')",
+    "url('images/bbwoman.jpg')"
+
 
 ];
 var counter = 0;
