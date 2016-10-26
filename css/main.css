@@ -53,3 +53,13 @@
  section {
      display: block;
  }
+ .introduction {
+     width: 45%;
+     float: left;
+     margin-left: 3%;
+     margin-top: 3%;
+ }
+ .pearone {
+     width: 45%;
+     float: right;
+ }
