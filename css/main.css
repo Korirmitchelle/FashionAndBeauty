@@ -54,12 +54,22 @@
      display: block;
  }
  .introduction {
-     width: 45%;
+     width: 50%;
      float: left;
      margin-left: 3%;
      margin-top: 3%;
  }
+ .introduction li {
+     list-style: none;
+     padding: 4px;
+ }
  .pearone {
-     width: 45%;
+     width: 30%;
      float: right;
+ }
+ .row {
+     height: 300px;
+ }
+ .pearone img {
+     height: 300px;
  }
