@@ -64,9 +64,11 @@
      margin-right: 4%;
      margin-left: 1%;
      float: left;
+     line-height: 40px;
      padding top: 1%;
  }
  aside {
+     padding-top: 3%;
      width: 32%;
      float: right;
      padding: 1%;
