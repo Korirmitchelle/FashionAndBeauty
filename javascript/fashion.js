@@ -4,7 +4,7 @@ var orange = [
     "url('images/stylywoman.jpg')",
     "url('images/jewellery.jpg')",
     "url('images/fake.jpg')",
-    "url('images/beautiful-eye-makeup-asian.jpg')",
+    "url('images/makeup1.jpg')",
     "url('images/bbwoman.jpg')",
     "url('images/redtop.jpg')"
 
