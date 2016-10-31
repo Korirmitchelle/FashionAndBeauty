@@ -128,7 +128,24 @@
      width: 600px;
  }
  #pearthree img {
-     width: 50%;
+     float: left;
+     width: 49%;
      height: 600px;
      border: 8px solid chartreuse;
+ }
+ #pearthreeleft img {
+     width: 48%;
+     height: 600px;
+     border: 8px solid chartreuse;
+     float: left;
+ }
+ /*#peariconbottom img {
+    width: 10%;
+    float: left;
+    height: 600px;
+    border: 8px solid chartreuse;
+}*/
+
+ .bottomimg {
+     display: inline-block;
  }
