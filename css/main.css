@@ -4,6 +4,8 @@
  }
  html {
      overflow-y: scroll;
+     width: 100%;
+     overflow-x: hidden;
  }
  header {
      display: inline-block;
@@ -148,4 +150,22 @@
 
  .bottomimg {
      display: inline-block;
+ }
+ .herowedge {
+     width: 100%;
+     margin-left: 2%;
+     display: inline-block;
+ }
+ .wedgedetails {
+     width: 100%;
+     display: inline-block;
+     list-style: none;
+     margin-left: -5%;
+ }
+ .first,
+ .second,
+ .third {
+     width: 30%;
+     float: right;
+     text-align: center;
  }
